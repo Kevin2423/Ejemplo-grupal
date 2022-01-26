@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    background-color: aquamarine;
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div{
+    border: 5px dashed black;
+    padding: 30px;
+
+    width: 600px;
+}
